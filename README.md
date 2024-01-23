@@ -214,5 +214,3 @@ Implement your own getElementsByTagName function. This function should accept a 
 ### **getElementsByClassName**
 
 Implement your own getElementsByClassName function. This function should accept a string and return an array of DOM elements that have that class name.
-
-## Solution
